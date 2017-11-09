@@ -1,6 +1,6 @@
 # Hướng dẫn sử dụng thư viện vẽ hình hangman cho Bài tập 2017
 
-Các bạn bấm nút **Clone and Download** (màu xanh lá cây ở trên bên phải), rồi chọn **Download ZIP** để tài mã nguồn về.
+Các bạn bấm nút **Clone and Download** (màu xanh lá cây ở trên bên phải), rồi chọn **Download ZIP** để tải mã nguồn về.
 
 Thư viện vẽ hình Hangman cho Bài tập 2017 được đặt tại thư mục **Bài tập \ 2017**. Các bạn mở Project Hangman để xem code và biết cách sử dụng.
 
