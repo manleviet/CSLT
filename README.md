@@ -11,6 +11,7 @@ Trong Project Hangman bao gồm 2 file:
 **Cách thêm thư viện này vào code của bạn:**
 - Trong project của bạn, nháy phải chuột lên tên project, chọn mục Add\Existing item...
 - Trong hộp thoại mở ra, chọn đến thư mục project Hangman của thầy, chọn file HangmanImage.cs, bấm nút Add
+
 Kết quả là file HangmanImage.cs được thêm vào project của bạn.
 
 
