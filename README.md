@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng thư viện cho Bài tập 2017
+# Hướng dẫn sử dụng thư viện vẽ hình hangman cho Bài tập 2017
 
 Các bạn bấm nút **Clone and Download**, rồi chọn **Download ZIP** để tài mã nguồn về.
 
