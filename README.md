@@ -1,3 +1,7 @@
+# Đáp án cho Bài tập 2017 - Game Hangman
+
+Tại thư mục Bài tập/2017
+
 # Hướng dẫn sử dụng thư viện vẽ hình hangman cho Bài tập 2017
 
 Các bạn bấm nút **Clone and Download** (màu xanh lá cây ở trên bên phải), rồi chọn **Download ZIP** để tải mã nguồn về.
